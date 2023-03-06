@@ -1,0 +1,6 @@
+# lorem-ipsum-4 .gitignore #
+############################
+
+# Restrict to only txt files #
+*
+!*.txt
